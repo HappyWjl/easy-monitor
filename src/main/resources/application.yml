@@ -1,0 +1,8 @@
+server:
+  port: 8081
+
+influxdb:
+  username: root
+  password: 123456
+  openurl: http://localhost:8086
+  database: user
